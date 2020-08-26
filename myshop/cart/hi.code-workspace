@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\facebook"
+		},
+		{
+			"path": "..\\..\\..\\blog"
+		},
+		{
+			"path": "..\\..\\..\\top"
+		},
+		{
+			"path": "..\\..\\..\\social"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "c:\\Users\\rocky\\Desktop\\ecom\\env\\myshop\\Scripts\\python.exe",
+		"python.autoComplete.extraPaths": [
+			"C:\\Users\\rocky\\Desktop\\social\\bookmarks\\common\\decoraters.py"
+		
+		],
+		"git.ignoreLimitWarning": true
+	}
+}
